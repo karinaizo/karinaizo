@@ -1,7 +1,5 @@
 <h1>Olá, meu nome é Karina 👋</h1>
 
-<hr>
-
 <!--
 **karinaizo/karinaizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
