@@ -1,4 +1,4 @@
-<h1>### Olá, meu nome é Karina 👋</h1>
+<h1>Olá, meu nome é Karina 👋</h1>
 
 <hr>
 
