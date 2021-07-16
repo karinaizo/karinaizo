@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá, meu nome é Karina 👋
 
 <hr>
 
